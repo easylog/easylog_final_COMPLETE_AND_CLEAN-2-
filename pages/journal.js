@@ -1,0 +1,1 @@
+export default function Journal() { return <h1>📘 Journal (bereit für GPT)</h1>; }

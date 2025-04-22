@@ -1,0 +1,1 @@
+export default function ChangeBoardList() { return <h1>📋 Kundenliste</h1>; }
